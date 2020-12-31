@@ -8,13 +8,12 @@
 </br>
 
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería
+# MAT269 - Optimización No Lineal.
 
 ## Portafolio Personal
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alan-Grez/non_lineal_optimization/master?urlpath=lab)
 
-### Setup
-
-Las instrucciones de uso se encuentran en [este](setup.md) siguiente archivo. 
-
-Para aquellos usuarios de Windows que quieran sacar partido, se recomienda mirar también [este](wsl_ds_toolkit.md) archivo, mostrando un entorno de trabajo con WSL.
+### Colaboradores.
+. Alan Grez
+. Cristobal Lobos
+. Diego Pinto

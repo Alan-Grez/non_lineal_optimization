@@ -8,7 +8,7 @@
 </br>
 
 
-# MAT269 - Optimización No Lineal.
+# MAT269 - Optimización No Lineal
 
 ## Portafolio Personal
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Alan-Grez/non_lineal_optimization/master?urlpath=lab)
